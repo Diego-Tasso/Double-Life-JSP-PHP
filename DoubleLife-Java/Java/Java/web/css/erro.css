@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+}
+.error h1, h4 {
+    color: rgb(255,0,0);
+    text-align: center;
+    text-decoration: none;
+}
+.error h4 {
+    opacity: 0.5;
+    text-decoration: none;
+    transition: 1s;
+}
+.error h4:hover {
+    opacity: 0.8;
+}
+.error img {
+    position:absolute;
+    top: 60%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    width : 500px;
+    height : 500px;
+    text-align: center;
+}

@@ -1,0 +1,64 @@
+
+#main-graf{
+    background-color: #FFF;
+}
+
+#graf-servico{
+    font-size: 25px; 
+    text-decoration: none;
+    color:  #123456;
+    
+}
+#graf-usuarios{
+    font-size: 25px; 
+    text-decoration: none;
+    color:  #123456;
+    
+}
+
+.icon-graf1{
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+.graf-1{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    float: left;
+    border: 3px solid #123456;
+    padding: 30px;
+    border-radius: 15px;
+    width: 20%;
+    max-height: 90%;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.icon-graf2{
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+.graf-2{
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    float: right;
+    border: 3px solid #123456;
+    padding: 30px;
+    border-radius: 15px;
+    width: 20%;
+    max-height: 90%;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.title-graf{
+    text-align: center;
+}    
